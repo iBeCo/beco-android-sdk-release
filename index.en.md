@@ -10,7 +10,7 @@ The following information will help you integrate the BeCo SDK with your app usi
 
 ### Create an account
 
-You'll need to [create an account](https://staging-app.becomap.com) to complete the steps below. Already have an account? [Sign in](https://staging-app.becomap.com/accounts/login/).
+You'll need to [create an account](https://staging.becomap.com) to complete the steps below. Already have an account? [Sign in](https://staging.becomap.com/accounts/login/).
 
 ### Steps
 
@@ -71,7 +71,7 @@ before initialising the SDK you need to check whether bluetooth is enabled or no
 
 <aside class="notice">
 
-[Get Usage Token](https://staging-app.becomap.com/){className="btn"}
+[Get Usage Token](https://staging.becomap.com/){className="btn"}
 
 </aside>
 
