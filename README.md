@@ -7,11 +7,11 @@ This repository will be used to host android sdk dependency on github
 ```java
 
 repositories {
-    maven {url "https://raw.githubusercontent.com/iBeCo/beco-android-sdk-release/master"}
+    maven {url "https://raw.githubusercontent.com/iBeCo/beco-android-sdk-release/release"}
 }
 
 
 dependencies {
-    compile 'com.beco:sdk:1.2'
+    compile 'com.beco:sdk:1.0'
 }
 ```
