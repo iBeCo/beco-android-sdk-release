@@ -12,6 +12,6 @@ repositories {
 
 
 dependencies {
-    compile 'com.beco:sdk:1.11'
+    compile 'com.beco:sdk:1.12'
 }
 ```
